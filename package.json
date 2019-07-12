@@ -1,0 +1,22 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "promise achieve or polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabyidong/promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "gaby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabyidong/promise/issues"
+  },
+  "homepage": "https://github.com/gabyidong/promise#readme"
+}
