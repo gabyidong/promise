@@ -21,6 +21,6 @@
   "homepage": "https://github.com/gabyidong/promise#readme",
   "devDependencies": {
     "benchmark": "^2.1.4",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
